@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 70px;
+  background-color: rgba(0,0,0,.7);
+  opacity: .8;
+}
+
+#dog {
+  padding: 15px;
+}
+
+body {
+     background-image: url("http://wallpaper-gallery.net/images/photo-background-wallpaper/photo-background-wallpaper-24.jpg");
+}
+
+#quote-content{
+  font-family: 'Roboto', sans-serif;
+}
